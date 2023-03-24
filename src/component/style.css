@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.login, .register {
+    border-radius: 5px;
+    height: auto;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding:25px 0px;
+    background-color: rgb(245, 245, 245);
+    box-shadow: 2px 2px 5px rgb(19, 16, 16);
+}
+.container{
+    margin-top: 20px;
+}
+button{
+    padding: 5px;
+    color: blue;
+    border: none;
+    background-color:rgb(180, 158, 209) ;
+    border-radius: 5px;
+}
